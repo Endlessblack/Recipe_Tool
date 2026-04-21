@@ -1,0 +1,32 @@
+version: "3"
+services:
+  db_recipes:
+    restart: always
+    image: postgres:15-alpine
+    volumes:
+      - ./postgresql:/var/lib/postgresql/data
+    env_file:
+      - .env
+
+  web_recipes:
+    restart: always
+    image: vabene1111/recipes
+    env_file:
+      - .env
+    volumes:
+      - ./staticfiles:/opt/recipes/staticfiles
+      - ./mediafiles:/opt/recipes/mediafiles
+    depends_on:
+      - db_recipes
+
+  nginx_recipes:
+    restart: always
+    image: nginx:mainline-alpine
+    ports:
+      - "8080:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./staticfiles:/static
+      - ./mediafiles:/media
+    depends_on:
+      - web_recipes
