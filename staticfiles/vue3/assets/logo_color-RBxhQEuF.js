@@ -1,0 +1,1 @@
+var e=``+new URL(`logo_color-CXE3OqOR.svg`,import.meta.url).href;export{e as t};

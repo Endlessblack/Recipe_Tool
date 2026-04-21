@@ -1,0 +1,2717 @@
+{
+  "_AddToShoppingDialog-2zFULpEg.js": {
+    "file": "assets/AddToShoppingDialog-2zFULpEg.js",
+    "name": "AddToShoppingDialog",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckboxBtn-gPDqip0S.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_number_utils-DwIvdNx1.js",
+      "_VTable-D_AcMnTP.js",
+      "_model_utils-C6m890wx.js"
+    ],
+    "css": [
+      "assets/AddToShoppingDialog-BXt5jKLm.css"
+    ]
+  },
+  "_AddToShoppingDialog-BXt5jKLm.css": {
+    "file": "assets/AddToShoppingDialog-BXt5jKLm.css",
+    "src": "_AddToShoppingDialog-BXt5jKLm.css"
+  },
+  "_BatchDeleteDialog-B2MF0yVk.js": {
+    "file": "assets/BatchDeleteDialog-B2MF0yVk.js",
+    "name": "BatchDeleteDialog",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_Models-Cztajy1l.js"
+    ]
+  },
+  "_ClosableHelpAlert-B9iZjqeL.js": {
+    "file": "assets/ClosableHelpAlert-B9iZjqeL.js",
+    "name": "ClosableHelpAlert",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VBtn-CCXnhmcy.js",
+      "_ripple-DSupw0Ea.js"
+    ]
+  },
+  "_DatabaseLinkCol-DFdSK7-j.js": {
+    "file": "assets/DatabaseLinkCol-DFdSK7-j.js",
+    "name": "DatabaseLinkCol",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VCard-CZIXdxtF.js",
+      "_VRow-DabkD4uq.js"
+    ]
+  },
+  "_DatabaseModelCol-GHBV-utj.js": {
+    "file": "assets/DatabaseModelCol-GHBV-utj.js",
+    "name": "DatabaseModelCol",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VCard-CZIXdxtF.js",
+      "_VRow-DabkD4uq.js",
+      "_Models-Cztajy1l.js"
+    ]
+  },
+  "_DeleteConfirmDialog-DXmi7dY3.js": {
+    "file": "assets/DeleteConfirmDialog-DXmi7dY3.js",
+    "name": "DeleteConfirmDialog",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VDialog-B34jJypU.js"
+    ]
+  },
+  "_FdcSearchDialog-Cqb9D8rA.js": {
+    "file": "assets/FdcSearchDialog-Cqb9D8rA.js",
+    "name": "FdcSearchDialog",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VDialog-B34jJypU.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VSelect-DSQk28J5.js"
+    ]
+  },
+  "_HierarchyEditor-CjwZTmHS.js": {
+    "file": "assets/HierarchyEditor-CjwZTmHS.js",
+    "name": "HierarchyEditor",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VAvatar-K558pYPh.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckboxBtn-gPDqip0S.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VRow-DabkD4uq.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VListItemAction-DxWVyokB.js",
+      "_filter-BSia7R91.js",
+      "_forwardRefs-CtKD4o0L.js",
+      "_Models-Cztajy1l.js"
+    ],
+    "css": [
+      "assets/HierarchyEditor-Y1A8Ijpk.css"
+    ]
+  },
+  "_HierarchyEditor-Y1A8Ijpk.css": {
+    "file": "assets/HierarchyEditor-Y1A8Ijpk.css",
+    "src": "_HierarchyEditor-Y1A8Ijpk.css"
+  },
+  "_IngredientsTable-5y9k9Hb4.js": {
+    "file": "assets/IngredientsTable-5y9k9Hb4.js",
+    "name": "IngredientsTable",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCheckboxBtn-gPDqip0S.js",
+      "_ripple-DSupw0Ea.js",
+      "_number_utils-DwIvdNx1.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VMenu-zfZbEqtg.js",
+      "_VTable-D_AcMnTP.js",
+      "_VTooltip-C_wAohQh.js",
+      "_NumberScalerDialog-Ds6B-9WE.js",
+      "_Models-Cztajy1l.js",
+      "_model_utils-C6m890wx.js"
+    ]
+  },
+  "_InventoryEntryLogDialog-Bc8i8VRM.js": {
+    "file": "assets/InventoryEntryLogDialog-Bc8i8VRM.js",
+    "name": "InventoryEntryLogDialog",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VCard-CZIXdxtF.js",
+      "_VChip-C1j0VadW.js",
+      "_VDataTableServer-CtHtAR6y.js",
+      "_VDialog-B34jJypU.js"
+    ]
+  },
+  "_KeywordsBar-CMVPy28D.js": {
+    "file": "assets/KeywordsBar-CMVPy28D.js",
+    "name": "KeywordsBar",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VChip-C1j0VadW.js"
+    ]
+  },
+  "_MessageStore-DqQIDxBL.js": {
+    "file": "assets/MessageStore-DqQIDxBL.js",
+    "name": "MessageStore",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js"
+    ]
+  },
+  "_ModelEditorBase-DAq_yJwR.js": {
+    "file": "assets/ModelEditorBase-DAq_yJwR.js",
+    "name": "ModelEditorBase",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_framework-B7oC7Ia-.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_DeleteConfirmDialog-DXmi7dY3.js",
+      "_Models-Cztajy1l.js"
+    ]
+  },
+  "_ModelMergeDialog-CO2-4mUV.js": {
+    "file": "assets/ModelMergeDialog-CO2-4mUV.js",
+    "name": "ModelMergeDialog",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VRow-DabkD4uq.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_Models-Cztajy1l.js"
+    ]
+  },
+  "_Models-Cztajy1l.js": {
+    "file": "assets/Models-Cztajy1l.js",
+    "name": "Models",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_preload-helper-BENb1yMm.js",
+      "_MessageStore-DqQIDxBL.js"
+    ],
+    "dynamicImports": [
+      "src/components/model_editors/FoodEditor.vue",
+      "src/components/model_editors/UnitEditor.vue",
+      "src/components/model_editors/KeywordEditor.vue",
+      "src/components/model_editors/RecipeEditor.vue",
+      "src/components/model_editors/MealTypeEditor.vue",
+      "src/components/model_editors/MealPlanEditor.vue",
+      "src/components/model_editors/RecipeBookEditor.vue",
+      "src/components/model_editors/CustomFilterEditor.vue",
+      "_SupermarketEditor-BvnxpRWY.js",
+      "src/components/model_editors/SupermarketCategoryEditor.vue",
+      "src/components/model_editors/ShoppingListEditor.vue",
+      "src/components/model_editors/ShoppingListEntryEditor.vue",
+      "src/components/model_editors/PropertyTypeEditor.vue",
+      "src/components/model_editors/PropertyEditor.vue",
+      "src/components/model_editors/UnitConversionEditor.vue",
+      "src/components/model_editors/UserFileEditor.vue",
+      "src/components/model_editors/AutomationEditor.vue",
+      "src/components/model_editors/CookLogEditor.vue",
+      "src/components/model_editors/AccessTokenEditor.vue",
+      "src/components/model_editors/HouseholdEditor.vue",
+      "src/components/model_editors/UserSpaceEditor.vue",
+      "src/components/model_editors/InviteLinkEditor.vue",
+      "_SpaceEditor-CBb7QuEF.js",
+      "src/components/model_editors/StorageEditor.vue",
+      "src/components/model_editors/InventoryLocationEditor.vue",
+      "src/components/model_editors/SyncEditor.vue",
+      "src/components/model_editors/ConnectorConfigEditor.vue",
+      "src/components/model_editors/AiProviderEditor.vue"
+    ]
+  },
+  "_NumberScalerDialog-Ds6B-9WE.js": {
+    "file": "assets/NumberScalerDialog-Ds6B-9WE.js",
+    "name": "NumberScalerDialog",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VDialog-B34jJypU.js"
+    ]
+  },
+  "_OpenDataImportSettings-BAWyJHAk.js": {
+    "file": "assets/OpenDataImportSettings-BAWyJHAk.js",
+    "name": "OpenDataImportSettings",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VRow-DabkD4uq.js",
+      "_VSelect-DSQk28J5.js",
+      "_VTable-D_AcMnTP.js"
+    ]
+  },
+  "_PrivateRecipeBadge-DZLoBk_n.js": {
+    "file": "assets/PrivateRecipeBadge-DZLoBk_n.js",
+    "name": "PrivateRecipeBadge",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_framework-B7oC7Ia-.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VMenu-zfZbEqtg.js",
+      "_AddToShoppingDialog-2zFULpEg.js",
+      "_useFileApi-CfKL7l1L.js"
+    ]
+  },
+  "_PropertiesEditor-BJRW3n81.js": {
+    "file": "assets/PropertiesEditor-BJRW3n81.js",
+    "name": "PropertiesEditor",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VChip-C1j0VadW.js",
+      "_ripple-DSupw0Ea.js",
+      "_VRow-DabkD4uq.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VMenu-zfZbEqtg.js"
+    ]
+  },
+  "_RecipeCard-BFWiOp6n.css": {
+    "file": "assets/RecipeCard-BFWiOp6n.css",
+    "src": "_RecipeCard-BFWiOp6n.css"
+  },
+  "_RecipeCard-wOUr25ii.js": {
+    "file": "assets/RecipeCard-wOUr25ii.js",
+    "name": "RecipeCard",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_framework-B7oC7Ia-.js",
+      "_VAvatar-K558pYPh.js",
+      "_VCard-CZIXdxtF.js",
+      "_VChip-C1j0VadW.js",
+      "_AddToShoppingDialog-2zFULpEg.js",
+      "_PrivateRecipeBadge-DZLoBk_n.js",
+      "_KeywordsBar-CMVPy28D.js"
+    ],
+    "css": [
+      "assets/RecipeCard-BFWiOp6n.css"
+    ]
+  },
+  "_ShoppingListView-CV-RxTmE.js": {
+    "file": "assets/ShoppingListView-CV-RxTmE.js",
+    "name": "ShoppingListView",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_SupermarketEditor-BvnxpRWY.js",
+      "_framework-B7oC7Ia-.js",
+      "_VAvatar-K558pYPh.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckboxBtn-gPDqip0S.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VSpacer-dj5Ytwo_.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VListItemAction-DxWVyokB.js",
+      "_VMenu-zfZbEqtg.js",
+      "_position-D2VYa8e6.js",
+      "_VSelect-DSQk28J5.js",
+      "_AddToShoppingDialog-2zFULpEg.js",
+      "_VSwitch-DXVGEN7G.js",
+      "_VTabs-COZQDzPU.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_intersect-JpzjG-xp.js",
+      "_DeleteConfirmDialog-DXmi7dY3.js",
+      "_NumberScalerDialog-Ds6B-9WE.js",
+      "_Models-Cztajy1l.js",
+      "_model_utils-C6m890wx.js"
+    ],
+    "css": [
+      "assets/ShoppingListView-Dgh1luaN.css"
+    ]
+  },
+  "_ShoppingListView-Dgh1luaN.css": {
+    "file": "assets/ShoppingListView-Dgh1luaN.css",
+    "src": "_ShoppingListView-Dgh1luaN.css"
+  },
+  "_SpaceEditor-BG9pNfzF.css": {
+    "file": "assets/SpaceEditor-BG9pNfzF.css",
+    "src": "_SpaceEditor-BG9pNfzF.css"
+  },
+  "_SpaceEditor-CBb7QuEF.js": {
+    "file": "assets/SpaceEditor-CBb7QuEF.js",
+    "name": "SpaceEditor",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VAvatar-K558pYPh.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VChip-C1j0VadW.js",
+      "_VColorPicker-BbklebUs.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VDataTable-D6nOsNtn.js",
+      "_VDialog-B34jJypU.js",
+      "_VRow-DabkD4uq.js",
+      "_position-D2VYa8e6.js",
+      "_VTabs-COZQDzPU.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_fileFilter-ur1pI-li.js",
+      "_forwardRefs-CtKD4o0L.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ],
+    "css": [
+      "assets/SpaceEditor-BG9pNfzF.css"
+    ]
+  },
+  "_SupermarketEditor-BvnxpRWY.js": {
+    "file": "assets/SupermarketEditor-BvnxpRWY.js",
+    "name": "SupermarketEditor",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VRow-DabkD4uq.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VTabs-COZQDzPU.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "_UserPreferenceStore-CiAwGW4H.js": {
+    "file": "assets/UserPreferenceStore-CiAwGW4H.js",
+    "name": "UserPreferenceStore",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_framework-B7oC7Ia-.js",
+      "_ripple-DSupw0Ea.js"
+    ]
+  },
+  "_VAutocomplete-XDYG6e1A.css": {
+    "file": "assets/VAutocomplete-XDYG6e1A.css",
+    "src": "_VAutocomplete-XDYG6e1A.css"
+  },
+  "_VAutocomplete-Yb0KXZ9d.js": {
+    "file": "assets/VAutocomplete-Yb0KXZ9d.js",
+    "name": "VAutocomplete",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VAvatar-K558pYPh.js",
+      "_VCheckboxBtn-gPDqip0S.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VMenu-zfZbEqtg.js",
+      "_VSelect-DSQk28J5.js",
+      "_filter-BSia7R91.js",
+      "_form-DrxrC6G1.js",
+      "_forwardRefs-CtKD4o0L.js"
+    ],
+    "css": [
+      "assets/VAutocomplete-XDYG6e1A.css"
+    ]
+  },
+  "_VAvatar-Iboor5OF.css": {
+    "file": "assets/VAvatar-Iboor5OF.css",
+    "src": "_VAvatar-Iboor5OF.css"
+  },
+  "_VAvatar-K558pYPh.js": {
+    "file": "assets/VAvatar-K558pYPh.js",
+    "name": "VAvatar",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_ripple-DSupw0Ea.js",
+      "_intersect-JpzjG-xp.js"
+    ],
+    "css": [
+      "assets/VAvatar-Iboor5OF.css"
+    ]
+  },
+  "_VBtn-CCXnhmcy.js": {
+    "file": "assets/VBtn-CCXnhmcy.js",
+    "name": "VBtn",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_ripple-DSupw0Ea.js",
+      "_position-D2VYa8e6.js"
+    ],
+    "css": [
+      "assets/VBtn-m1Z7FPBy.css"
+    ]
+  },
+  "_VBtn-m1Z7FPBy.css": {
+    "file": "assets/VBtn-m1Z7FPBy.css",
+    "src": "_VBtn-m1Z7FPBy.css"
+  },
+  "_VCard-CSJpUMri.css": {
+    "file": "assets/VCard-CSJpUMri.css",
+    "src": "_VCard-CSJpUMri.css"
+  },
+  "_VCard-CZIXdxtF.js": {
+    "file": "assets/VCard-CZIXdxtF.js",
+    "name": "VCard",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VAvatar-K558pYPh.js",
+      "_ripple-DSupw0Ea.js",
+      "_position-D2VYa8e6.js",
+      "_intersect-JpzjG-xp.js"
+    ],
+    "css": [
+      "assets/VCard-CSJpUMri.css"
+    ]
+  },
+  "_VCheckbox-DonvWGMR.js": {
+    "file": "assets/VCheckbox-DonvWGMR.js",
+    "name": "VCheckbox",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VCheckboxBtn-gPDqip0S.js",
+      "_VTextField-awlf6Q3j.js",
+      "_forwardRefs-CtKD4o0L.js"
+    ],
+    "css": [
+      "assets/VCheckbox-QyI_t4QG.css"
+    ]
+  },
+  "_VCheckbox-QyI_t4QG.css": {
+    "file": "assets/VCheckbox-QyI_t4QG.css",
+    "src": "_VCheckbox-QyI_t4QG.css"
+  },
+  "_VCheckboxBtn-CgKG0efP.css": {
+    "file": "assets/VCheckboxBtn-CgKG0efP.css",
+    "src": "_VCheckboxBtn-CgKG0efP.css"
+  },
+  "_VCheckboxBtn-gPDqip0S.js": {
+    "file": "assets/VCheckboxBtn-gPDqip0S.js",
+    "name": "VCheckboxBtn",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js"
+    ],
+    "css": [
+      "assets/VCheckboxBtn-CgKG0efP.css"
+    ]
+  },
+  "_VChip-C1j0VadW.js": {
+    "file": "assets/VChip-C1j0VadW.js",
+    "name": "VChip",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VAvatar-K558pYPh.js",
+      "_VBtn-CCXnhmcy.js",
+      "_ripple-DSupw0Ea.js",
+      "_position-D2VYa8e6.js",
+      "_transitions-CbYsSXMn.js",
+      "_goto-DnQ5Bo0N.js"
+    ],
+    "css": [
+      "assets/VChip-Hpg9IuyM.css"
+    ]
+  },
+  "_VChip-Hpg9IuyM.css": {
+    "file": "assets/VChip-Hpg9IuyM.css",
+    "src": "_VChip-Hpg9IuyM.css"
+  },
+  "_VColorPicker-BbklebUs.js": {
+    "file": "assets/VColorPicker-BbklebUs.js",
+    "name": "VColorPicker",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_position-D2VYa8e6.js",
+      "_transitions-CbYsSXMn.js",
+      "_form-DrxrC6G1.js",
+      "_forwardRefs-CtKD4o0L.js"
+    ],
+    "css": [
+      "assets/VColorPicker-DoVATq5z.css"
+    ]
+  },
+  "_VColorPicker-DoVATq5z.css": {
+    "file": "assets/VColorPicker-DoVATq5z.css",
+    "src": "_VColorPicker-DoVATq5z.css"
+  },
+  "_VContainer-Dw_pL6_n.js": {
+    "file": "assets/VContainer-Dw_pL6_n.js",
+    "name": "VContainer",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js"
+    ],
+    "css": [
+      "assets/VGrid-BdfNOOjS.css"
+    ]
+  },
+  "_VDataTable-BPX-w6bt.css": {
+    "file": "assets/VDataTable-BPX-w6bt.css",
+    "src": "_VDataTable-BPX-w6bt.css"
+  },
+  "_VDataTable-D6nOsNtn.js": {
+    "file": "assets/VDataTable-D6nOsNtn.js",
+    "name": "VDataTable",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCheckboxBtn-gPDqip0S.js",
+      "_VChip-C1j0VadW.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VPagination-p2GKOnup.js",
+      "_position-D2VYa8e6.js",
+      "_VSelect-DSQk28J5.js",
+      "_VTable-D_AcMnTP.js",
+      "_filter-BSia7R91.js"
+    ],
+    "css": [
+      "assets/VDataTable-BPX-w6bt.css"
+    ]
+  },
+  "_VDataTableServer-CtHtAR6y.js": {
+    "file": "assets/VDataTableServer-CtHtAR6y.js",
+    "name": "VDataTableServer",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VDataTable-D6nOsNtn.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VTable-D_AcMnTP.js"
+    ]
+  },
+  "_VDialog-B34jJypU.js": {
+    "file": "assets/VDialog-B34jJypU.js",
+    "name": "VDialog",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_ripple-DSupw0Ea.js",
+      "_VOverlay-Dnzwc3TH.js",
+      "_transitions-CbYsSXMn.js",
+      "_forwardRefs-CtKD4o0L.js"
+    ],
+    "css": [
+      "assets/VDialog-B8fdK25s.css"
+    ]
+  },
+  "_VDialog-B8fdK25s.css": {
+    "file": "assets/VDialog-B8fdK25s.css",
+    "src": "_VDialog-B8fdK25s.css"
+  },
+  "_VDivider-BeM1gRhl.css": {
+    "file": "assets/VDivider-BeM1gRhl.css",
+    "src": "_VDivider-BeM1gRhl.css"
+  },
+  "_VDivider-CR5_BJ1y.js": {
+    "file": "assets/VDivider-CR5_BJ1y.js",
+    "name": "VDivider",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_ripple-DSupw0Ea.js"
+    ],
+    "css": [
+      "assets/VDivider-BeM1gRhl.css"
+    ]
+  },
+  "_VFileUpload-CYythW1o.js": {
+    "file": "assets/VFileUpload-CYythW1o.js",
+    "name": "VFileUpload",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VAvatar-K558pYPh.js",
+      "_VBtn-CCXnhmcy.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VOverlay-Dnzwc3TH.js",
+      "_fileFilter-ur1pI-li.js"
+    ],
+    "css": [
+      "assets/VFileUpload-DiS_thSx.css"
+    ]
+  },
+  "_VFileUpload-DiS_thSx.css": {
+    "file": "assets/VFileUpload-DiS_thSx.css",
+    "src": "_VFileUpload-DiS_thSx.css"
+  },
+  "_VGrid-BdfNOOjS.css": {
+    "file": "assets/VGrid-BdfNOOjS.css",
+    "src": "_VGrid-BdfNOOjS.css"
+  },
+  "_VList-B7SdKPdT.css": {
+    "file": "assets/VList-B7SdKPdT.css",
+    "src": "_VList-B7SdKPdT.css"
+  },
+  "_VList-MZVaGbBE.js": {
+    "file": "assets/VList-MZVaGbBE.js",
+    "name": "VList",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VListItem-D4YEtkS7.js",
+      "_transitions-CbYsSXMn.js",
+      "_intersect-JpzjG-xp.js"
+    ],
+    "css": [
+      "assets/VList-B7SdKPdT.css"
+    ]
+  },
+  "_VListItem-CoCtg1X0.css": {
+    "file": "assets/VListItem-CoCtg1X0.css",
+    "src": "_VListItem-CoCtg1X0.css"
+  },
+  "_VListItem-D4YEtkS7.js": {
+    "file": "assets/VListItem-D4YEtkS7.js",
+    "name": "VListItem",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VAvatar-K558pYPh.js",
+      "_ripple-DSupw0Ea.js",
+      "_intersect-JpzjG-xp.js"
+    ],
+    "css": [
+      "assets/VListItem-CoCtg1X0.css"
+    ]
+  },
+  "_VListItemAction-DxWVyokB.js": {
+    "file": "assets/VListItemAction-DxWVyokB.js",
+    "name": "VListItemAction",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js"
+    ]
+  },
+  "_VMenu-DI_OZMqw.css": {
+    "file": "assets/VMenu-DI_OZMqw.css",
+    "src": "_VMenu-DI_OZMqw.css"
+  },
+  "_VMenu-zfZbEqtg.js": {
+    "file": "assets/VMenu-zfZbEqtg.js",
+    "name": "VMenu",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_ripple-DSupw0Ea.js",
+      "_VOverlay-Dnzwc3TH.js",
+      "_transitions-CbYsSXMn.js",
+      "_forwardRefs-CtKD4o0L.js"
+    ],
+    "css": [
+      "assets/VMenu-DI_OZMqw.css"
+    ]
+  },
+  "_VOverlay-CKBxglwy.css": {
+    "file": "assets/VOverlay-CKBxglwy.css",
+    "src": "_VOverlay-CKBxglwy.css"
+  },
+  "_VOverlay-Dnzwc3TH.js": {
+    "file": "assets/VOverlay-Dnzwc3TH.js",
+    "name": "VOverlay",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_ripple-DSupw0Ea.js",
+      "_position-D2VYa8e6.js",
+      "_transitions-CbYsSXMn.js",
+      "_intersect-JpzjG-xp.js"
+    ],
+    "css": [
+      "assets/VOverlay-CKBxglwy.css"
+    ]
+  },
+  "_VPagination-COmo1aFR.css": {
+    "file": "assets/VPagination-COmo1aFR.css",
+    "src": "_VPagination-COmo1aFR.css"
+  },
+  "_VPagination-p2GKOnup.js": {
+    "file": "assets/VPagination-p2GKOnup.js",
+    "name": "VPagination",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VBtn-CCXnhmcy.js",
+      "_ripple-DSupw0Ea.js",
+      "_position-D2VYa8e6.js"
+    ],
+    "css": [
+      "assets/VPagination-COmo1aFR.css"
+    ]
+  },
+  "_VRating-BAibLkoF.css": {
+    "file": "assets/VRating-BAibLkoF.css",
+    "src": "_VRating-BAibLkoF.css"
+  },
+  "_VRating-CWk1fWje.js": {
+    "file": "assets/VRating-CWk1fWje.js",
+    "name": "VRating",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VBtn-CCXnhmcy.js",
+      "_ripple-DSupw0Ea.js"
+    ],
+    "css": [
+      "assets/VRating-BAibLkoF.css"
+    ]
+  },
+  "_VRow-DabkD4uq.js": {
+    "file": "assets/VRow-DabkD4uq.js",
+    "name": "VRow",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_ripple-DSupw0Ea.js"
+    ],
+    "css": [
+      "assets/VGrid-BdfNOOjS.css"
+    ]
+  },
+  "_VSelect-BCbdd2gt.css": {
+    "file": "assets/VSelect-BCbdd2gt.css",
+    "src": "_VSelect-BCbdd2gt.css"
+  },
+  "_VSelect-DSQk28J5.js": {
+    "file": "assets/VSelect-DSQk28J5.js",
+    "name": "VSelect",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VAvatar-K558pYPh.js",
+      "_VCheckboxBtn-gPDqip0S.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VMenu-zfZbEqtg.js",
+      "_VOverlay-Dnzwc3TH.js",
+      "_position-D2VYa8e6.js",
+      "_transitions-CbYsSXMn.js",
+      "_form-DrxrC6G1.js",
+      "_forwardRefs-CtKD4o0L.js",
+      "_intersect-JpzjG-xp.js"
+    ],
+    "css": [
+      "assets/VSelect-BCbdd2gt.css"
+    ]
+  },
+  "_VSpacer-dj5Ytwo_.js": {
+    "file": "assets/VSpacer-dj5Ytwo_.js",
+    "name": "VSpacer",
+    "imports": [
+      "_intersect-JpzjG-xp.js"
+    ],
+    "css": [
+      "assets/VGrid-BdfNOOjS.css"
+    ]
+  },
+  "_VStepper-CGGd-mmT.js": {
+    "file": "assets/VStepper-CGGd-mmT.js",
+    "name": "VStepper",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VAvatar-K558pYPh.js",
+      "_VBtn-CCXnhmcy.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_intersect-JpzjG-xp.js"
+    ],
+    "css": [
+      "assets/VStepper-lk6OG_fY.css"
+    ]
+  },
+  "_VStepper-lk6OG_fY.css": {
+    "file": "assets/VStepper-lk6OG_fY.css",
+    "src": "_VStepper-lk6OG_fY.css"
+  },
+  "_VSwitch-DXVGEN7G.js": {
+    "file": "assets/VSwitch-DXVGEN7G.js",
+    "name": "VSwitch",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCheckboxBtn-gPDqip0S.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_position-D2VYa8e6.js",
+      "_transitions-CbYsSXMn.js",
+      "_forwardRefs-CtKD4o0L.js"
+    ],
+    "css": [
+      "assets/VSwitch-Djsboh2v.css"
+    ]
+  },
+  "_VSwitch-Djsboh2v.css": {
+    "file": "assets/VSwitch-Djsboh2v.css",
+    "src": "_VSwitch-Djsboh2v.css"
+  },
+  "_VTable-Bt-bwlcO.css": {
+    "file": "assets/VTable-Bt-bwlcO.css",
+    "src": "_VTable-Bt-bwlcO.css"
+  },
+  "_VTable-D_AcMnTP.js": {
+    "file": "assets/VTable-D_AcMnTP.js",
+    "name": "VTable",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_ripple-DSupw0Ea.js"
+    ],
+    "css": [
+      "assets/VTable-Bt-bwlcO.css"
+    ]
+  },
+  "_VTabs-COZQDzPU.js": {
+    "file": "assets/VTabs-COZQDzPU.js",
+    "name": "VTabs",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VChip-C1j0VadW.js",
+      "_ripple-DSupw0Ea.js",
+      "_VOverlay-Dnzwc3TH.js",
+      "_transitions-CbYsSXMn.js",
+      "_forwardRefs-CtKD4o0L.js",
+      "_intersect-JpzjG-xp.js"
+    ],
+    "css": [
+      "assets/VTabs-DSQHJn3y.css"
+    ]
+  },
+  "_VTabs-DSQHJn3y.css": {
+    "file": "assets/VTabs-DSQHJn3y.css",
+    "src": "_VTabs-DSQHJn3y.css"
+  },
+  "_VTextField-awlf6Q3j.js": {
+    "file": "assets/VTextField-awlf6Q3j.js",
+    "name": "VTextField",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_ripple-DSupw0Ea.js",
+      "_position-D2VYa8e6.js",
+      "_transitions-CbYsSXMn.js",
+      "_form-DrxrC6G1.js",
+      "_forwardRefs-CtKD4o0L.js",
+      "_intersect-JpzjG-xp.js"
+    ],
+    "css": [
+      "assets/VTextField-j0TpvUy_.css"
+    ]
+  },
+  "_VTextField-j0TpvUy_.css": {
+    "file": "assets/VTextField-j0TpvUy_.css",
+    "src": "_VTextField-j0TpvUy_.css"
+  },
+  "_VTextarea-DHxGnjaI.js": {
+    "file": "assets/VTextarea-DHxGnjaI.js",
+    "name": "VTextarea",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_forwardRefs-CtKD4o0L.js",
+      "_intersect-JpzjG-xp.js"
+    ],
+    "css": [
+      "assets/VTextarea-dHE66AZf.css"
+    ]
+  },
+  "_VTextarea-dHE66AZf.css": {
+    "file": "assets/VTextarea-dHE66AZf.css",
+    "src": "_VTextarea-dHE66AZf.css"
+  },
+  "_VTimePicker-CyXFae65.css": {
+    "file": "assets/VTimePicker-CyXFae65.css",
+    "src": "_VTimePicker-CyXFae65.css"
+  },
+  "_VTimePicker-DjVAK8TW.js": {
+    "file": "assets/VTimePicker-DjVAK8TW.js",
+    "name": "VTimePicker",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_forwardRefs-CtKD4o0L.js"
+    ],
+    "css": [
+      "assets/VTimePicker-CyXFae65.css"
+    ]
+  },
+  "_VTooltip-C_wAohQh.js": {
+    "file": "assets/VTooltip-C_wAohQh.js",
+    "name": "VTooltip",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_VOverlay-Dnzwc3TH.js",
+      "_forwardRefs-CtKD4o0L.js"
+    ],
+    "css": [
+      "assets/VTooltip-wD2djnd2.css"
+    ]
+  },
+  "_VTooltip-wD2djnd2.css": {
+    "file": "assets/VTooltip-wD2djnd2.css",
+    "src": "_VTooltip-wD2djnd2.css"
+  },
+  "_dimensions-Ro3jLs4r.js": {
+    "file": "assets/dimensions-Ro3jLs4r.js",
+    "name": "dimensions"
+  },
+  "_en-DtukTKzE.js": {
+    "file": "assets/en-DtukTKzE.js",
+    "name": "en",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js"
+    ]
+  },
+  "_fdc-DkhaOyYn.js": {
+    "file": "assets/fdc-DkhaOyYn.js",
+    "name": "fdc"
+  },
+  "_fileFilter-ur1pI-li.js": {
+    "file": "assets/fileFilter-ur1pI-li.js",
+    "name": "fileFilter",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js"
+    ]
+  },
+  "_filter-BSia7R91.js": {
+    "file": "assets/filter-BSia7R91.js",
+    "name": "filter",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js"
+    ]
+  },
+  "_form-DrxrC6G1.js": {
+    "file": "assets/form-DrxrC6G1.js",
+    "name": "form",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js"
+    ]
+  },
+  "_forwardRefs-CtKD4o0L.js": {
+    "file": "assets/forwardRefs-CtKD4o0L.js",
+    "name": "forwardRefs"
+  },
+  "_framework-B7oC7Ia-.js": {
+    "file": "assets/framework-B7oC7Ia-.js",
+    "name": "framework",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_ripple-DSupw0Ea.js",
+      "_goto-DnQ5Bo0N.js"
+    ]
+  },
+  "_goto-DnQ5Bo0N.js": {
+    "file": "assets/goto-DnQ5Bo0N.js",
+    "name": "goto",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_intersect-JpzjG-xp.js"
+    ]
+  },
+  "_integration_utils-DdktfY6E.js": {
+    "file": "assets/integration_utils-DdktfY6E.js",
+    "name": "integration_utils"
+  },
+  "_intersect-JpzjG-xp.js": {
+    "file": "assets/intersect-JpzjG-xp.js",
+    "name": "intersect",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js"
+    ]
+  },
+  "_layout-lYLPvZK-.js": {
+    "file": "assets/layout-lYLPvZK-.js",
+    "name": "layout",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_position-D2VYa8e6.js"
+    ]
+  },
+  "_logo_color-RBxhQEuF.js": {
+    "file": "assets/logo_color-RBxhQEuF.js",
+    "name": "logo_color",
+    "assets": [
+      "assets/logo_color-CXE3OqOR.svg"
+    ]
+  },
+  "_model_utils-C6m890wx.js": {
+    "file": "assets/model_utils-C6m890wx.js",
+    "name": "model_utils"
+  },
+  "_number_utils-Brwft-8t.css": {
+    "file": "assets/number_utils-Brwft-8t.css",
+    "src": "_number_utils-Brwft-8t.css"
+  },
+  "_number_utils-DwIvdNx1.js": {
+    "file": "assets/number_utils-DwIvdNx1.js",
+    "name": "number_utils",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VBtn-CCXnhmcy.js",
+      "_ripple-DSupw0Ea.js",
+      "_VOverlay-Dnzwc3TH.js",
+      "_transitions-CbYsSXMn.js"
+    ],
+    "css": [
+      "assets/number_utils-Brwft-8t.css"
+    ]
+  },
+  "_position-D2VYa8e6.js": {
+    "file": "assets/position-D2VYa8e6.js",
+    "name": "position",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_ripple-DSupw0Ea.js"
+    ],
+    "css": [
+      "assets/position-D7bmUCsu.css"
+    ]
+  },
+  "_position-D7bmUCsu.css": {
+    "file": "assets/position-D7bmUCsu.css",
+    "src": "_position-D7bmUCsu.css"
+  },
+  "_preload-helper-BENb1yMm.js": {
+    "file": "assets/preload-helper-BENb1yMm.js",
+    "name": "preload-helper"
+  },
+  "_ripple-CeGB3d9x.css": {
+    "file": "assets/ripple-CeGB3d9x.css",
+    "src": "_ripple-CeGB3d9x.css"
+  },
+  "_ripple-DSupw0Ea.js": {
+    "file": "assets/ripple-DSupw0Ea.js",
+    "name": "ripple",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js"
+    ],
+    "css": [
+      "assets/ripple-CeGB3d9x.css"
+    ]
+  },
+  "_step_utils-DxH-N3-F.js": {
+    "file": "assets/step_utils-DxH-N3-F.js",
+    "name": "step_utils",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_model_utils-C6m890wx.js"
+    ]
+  },
+  "_transitions-CbYsSXMn.js": {
+    "file": "assets/transitions-CbYsSXMn.js",
+    "name": "transitions",
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_intersect-JpzjG-xp.js"
+    ]
+  },
+  "_useFileApi-CfKL7l1L.js": {
+    "file": "assets/useFileApi-CfKL7l1L.js",
+    "name": "useFileApi",
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js"
+    ]
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-D1LuMI3I.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-D_cYUPeE.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-DZaxPHgR.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-BjRzuEpd.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-D0aA9rwL.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-CTAAxXor.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf": {
+    "file": "assets/fa-v4compatibility-CCth-dXg.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility-C9RhG_FT.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  },
+  "node_modules/mavon-editor/dist/font/fontello.eot": {
+    "file": "assets/fontello-CnWxryRb.eot",
+    "src": "node_modules/mavon-editor/dist/font/fontello.eot"
+  },
+  "node_modules/mavon-editor/dist/font/fontello.svg": {
+    "file": "assets/fontello-BxS_W-ym.svg",
+    "src": "node_modules/mavon-editor/dist/font/fontello.svg"
+  },
+  "node_modules/mavon-editor/dist/font/fontello.ttf": {
+    "file": "assets/fontello-B1X0PDnA.ttf",
+    "src": "node_modules/mavon-editor/dist/font/fontello.ttf"
+  },
+  "node_modules/mavon-editor/dist/font/fontello.woff": {
+    "file": "assets/fontello-BEgLts9b.woff",
+    "src": "node_modules/mavon-editor/dist/font/fontello.woff"
+  },
+  "node_modules/mavon-editor/dist/font/fontello.woff2": {
+    "file": "assets/fontello-BJkOxCgW.woff2",
+    "src": "node_modules/mavon-editor/dist/font/fontello.woff2"
+  },
+  "src/apps/tandoor/main.ts": {
+    "file": "assets/main-DRQWzHhz.js",
+    "name": "main",
+    "src": "src/apps/tandoor/main.ts",
+    "isEntry": true,
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_preload-helper-BENb1yMm.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_framework-B7oC7Ia-.js",
+      "_VAvatar-K558pYPh.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VDataTable-D6nOsNtn.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VSpacer-dj5Ytwo_.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VMenu-zfZbEqtg.js",
+      "_VOverlay-Dnzwc3TH.js",
+      "_position-D2VYa8e6.js",
+      "_VSelect-DSQk28J5.js",
+      "_VTable-D_AcMnTP.js",
+      "_VTooltip-C_wAohQh.js",
+      "_transitions-CbYsSXMn.js",
+      "_form-DrxrC6G1.js",
+      "_forwardRefs-CtKD4o0L.js",
+      "_layout-lYLPvZK-.js",
+      "_intersect-JpzjG-xp.js",
+      "_en-DtukTKzE.js",
+      "_Models-Cztajy1l.js"
+    ],
+    "dynamicImports": [
+      "src/locales/ar.json",
+      "src/locales/bg.json",
+      "src/locales/ca.json",
+      "src/locales/cs.json",
+      "src/locales/da.json",
+      "src/locales/de.json",
+      "src/locales/el.json",
+      "_en-DtukTKzE.js",
+      "src/locales/es.json",
+      "src/locales/fi.json",
+      "src/locales/fr.json",
+      "src/locales/he.json",
+      "src/locales/hr.json",
+      "src/locales/hu.json",
+      "src/locales/hy.json",
+      "src/locales/id.json",
+      "src/locales/is.json",
+      "src/locales/it.json",
+      "src/locales/ja.json",
+      "src/locales/ko.json",
+      "src/locales/lt.json",
+      "src/locales/lv.json",
+      "src/locales/nb_NO.json",
+      "src/locales/nl.json",
+      "src/locales/nn.json",
+      "src/locales/pl.json",
+      "src/locales/pt.json",
+      "src/locales/pt_BR.json",
+      "src/locales/ro.json",
+      "src/locales/ru.json",
+      "src/locales/sl.json",
+      "src/locales/sv.json",
+      "src/locales/tr.json",
+      "src/locales/uk.json",
+      "src/locales/zh_Hans.json",
+      "src/locales/zh_Hant.json",
+      "src/pages/StartPage.vue",
+      "src/pages/TestPage.vue",
+      "src/pages/WelcomePage.vue",
+      "src/pages/HouseholdPage.vue",
+      "src/pages/HelpPage.vue",
+      "src/pages/SearchPage.vue",
+      "src/pages/ShoppingListPage.vue",
+      "src/pages/BooksPage.vue",
+      "src/pages/BookViewPage.vue",
+      "src/pages/RecipeImportPage.vue",
+      "src/pages/RecipeViewPage.vue",
+      "src/pages/ModelListPage.vue",
+      "src/pages/ModelEditPage.vue",
+      "src/pages/ModelDeletePage.vue",
+      "src/pages/DatabasePage.vue",
+      "src/pages/InventoryBookingPage.vue",
+      "src/pages/IngredientEditorPage.vue",
+      "src/pages/PropertyEditorPage.vue",
+      "src/pages/PantryPage.vue",
+      "src/pages/SpaceSetupPage.vue",
+      "src/pages/404Page.vue",
+      "src/pages/SettingsPage.vue",
+      "src/components/settings/AccountSettings.vue",
+      "src/components/settings/CosmeticSettings.vue",
+      "src/components/settings/ShoppingSettings.vue",
+      "src/components/settings/MealPlanSettings.vue",
+      "src/components/settings/SearchSettings.vue",
+      "src/components/settings/SpaceSettings.vue",
+      "_OpenDataImportSettings-BAWyJHAk.js",
+      "src/components/settings/ExportDataSettings.vue",
+      "src/components/settings/ApiSettings.vue"
+    ],
+    "css": [
+      "assets/main-DagPWZ3z.css"
+    ],
+    "assets": [
+      "assets/brand_logo-DHt4CyHb.svg",
+      "assets/fa-brands-400-D_cYUPeE.woff2",
+      "assets/fa-brands-400-D1LuMI3I.ttf",
+      "assets/fa-regular-400-BjRzuEpd.woff2",
+      "assets/fa-regular-400-DZaxPHgR.ttf",
+      "assets/fa-solid-900-CTAAxXor.woff2",
+      "assets/fa-solid-900-D0aA9rwL.ttf",
+      "assets/fa-v4compatibility-C9RhG_FT.woff2",
+      "assets/fa-v4compatibility-CCth-dXg.ttf",
+      "assets/fontello-CnWxryRb.eot",
+      "assets/fontello-BJkOxCgW.woff2",
+      "assets/fontello-BEgLts9b.woff",
+      "assets/fontello-B1X0PDnA.ttf",
+      "assets/fontello-BxS_W-ym.svg"
+    ]
+  },
+  "src/assets/brand_logo.svg": {
+    "file": "assets/brand_logo-DHt4CyHb.svg",
+    "src": "src/assets/brand_logo.svg"
+  },
+  "src/assets/logo_color.svg": {
+    "file": "assets/logo_color-CXE3OqOR.svg",
+    "src": "src/assets/logo_color.svg"
+  },
+  "src/components/model_editors/AccessTokenEditor.vue": {
+    "file": "assets/AccessTokenEditor-B5p__o63.js",
+    "name": "AccessTokenEditor",
+    "src": "src/components/model_editors/AccessTokenEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VCard-CZIXdxtF.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VRow-DabkD4uq.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/AiProviderEditor.vue": {
+    "file": "assets/AiProviderEditor-BsfLxDfB.js",
+    "name": "AiProviderEditor",
+    "src": "src/components/model_editors/AiProviderEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VAvatar-K558pYPh.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VCheckboxBtn-gPDqip0S.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VMenu-zfZbEqtg.js",
+      "_VSelect-DSQk28J5.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_filter-BSia7R91.js",
+      "_form-DrxrC6G1.js",
+      "_forwardRefs-CtKD4o0L.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ],
+    "css": [
+      "assets/AiProviderEditor-g0e4LYDT.css"
+    ]
+  },
+  "src/components/model_editors/AutomationEditor.vue": {
+    "file": "assets/AutomationEditor-D97eQsNw.js",
+    "name": "AutomationEditor",
+    "src": "src/components/model_editors/AutomationEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VSelect-DSQk28J5.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/ConnectorConfigEditor.vue": {
+    "file": "assets/ConnectorConfigEditor-Dks8F2d0.js",
+    "name": "ConnectorConfigEditor",
+    "src": "src/components/model_editors/ConnectorConfigEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VSelect-DSQk28J5.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/CookLogEditor.vue": {
+    "file": "assets/CookLogEditor-NLQl9fuY.js",
+    "name": "CookLogEditor",
+    "src": "src/components/model_editors/CookLogEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VCard-CZIXdxtF.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VRow-DabkD4uq.js",
+      "_VRating-CWk1fWje.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/CustomFilterEditor.vue": {
+    "file": "assets/CustomFilterEditor-Ns-RAPvj.js",
+    "name": "CustomFilterEditor",
+    "src": "src/components/model_editors/CustomFilterEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VCard-CZIXdxtF.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/FoodEditor.vue": {
+    "file": "assets/FoodEditor-CgLiXhpV.js",
+    "name": "FoodEditor",
+    "src": "src/components/model_editors/FoodEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VRow-DabkD4uq.js",
+      "_VSpacer-dj5Ytwo_.js",
+      "_VTabs-COZQDzPU.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_HierarchyEditor-CjwZTmHS.js",
+      "_PropertiesEditor-BJRW3n81.js",
+      "_FdcSearchDialog-Cqb9D8rA.js",
+      "_ModelEditorBase-DAq_yJwR.js",
+      "_fdc-DkhaOyYn.js"
+    ]
+  },
+  "src/components/model_editors/HouseholdEditor.vue": {
+    "file": "assets/HouseholdEditor-DdJcNYlp.js",
+    "name": "HouseholdEditor",
+    "src": "src/components/model_editors/HouseholdEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VTextField-awlf6Q3j.js",
+      "_DatabaseModelCol-GHBV-utj.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/InventoryLocationEditor.vue": {
+    "file": "assets/InventoryLocationEditor-CtrnX1Dg.js",
+    "name": "InventoryLocationEditor",
+    "src": "src/components/model_editors/InventoryLocationEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/InviteLinkEditor.vue": {
+    "file": "assets/InviteLinkEditor-By9nUP8v.js",
+    "name": "InviteLinkEditor",
+    "src": "src/components/model_editors/InviteLinkEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VSelect-DSQk28J5.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/KeywordEditor.vue": {
+    "file": "assets/KeywordEditor-B67xlXwa.js",
+    "name": "KeywordEditor",
+    "src": "src/components/model_editors/KeywordEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VCard-CZIXdxtF.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VTabs-COZQDzPU.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_HierarchyEditor-CjwZTmHS.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/MealPlanEditor.vue": {
+    "file": "assets/MealPlanEditor-Ck97NzRZ.js",
+    "name": "MealPlanEditor",
+    "src": "src/components/model_editors/MealPlanEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_ShoppingListView-CV-RxTmE.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VRow-DabkD4uq.js",
+      "_VMenu-zfZbEqtg.js",
+      "_AddToShoppingDialog-2zFULpEg.js",
+      "_VTabs-COZQDzPU.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_VTimePicker-DjVAK8TW.js",
+      "_ClosableHelpAlert-B9iZjqeL.js",
+      "_RecipeCard-wOUr25ii.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ],
+    "css": [
+      "assets/MealPlanEditor-DqGGZRzo.css"
+    ]
+  },
+  "src/components/model_editors/MealTypeEditor.vue": {
+    "file": "assets/MealTypeEditor-D_3ERQ5C.js",
+    "name": "MealTypeEditor",
+    "src": "src/components/model_editors/MealTypeEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VColorPicker-BbklebUs.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VMenu-zfZbEqtg.js",
+      "_VTimePicker-DjVAK8TW.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/PropertyEditor.vue": {
+    "file": "assets/PropertyEditor-DAfqum0w.js",
+    "name": "PropertyEditor",
+    "src": "src/components/model_editors/PropertyEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VCard-CZIXdxtF.js",
+      "_VChip-C1j0VadW.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/PropertyTypeEditor.vue": {
+    "file": "assets/PropertyTypeEditor-BSSOnLu5.js",
+    "name": "PropertyTypeEditor",
+    "src": "src/components/model_editors/PropertyTypeEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VAutocomplete-Yb0KXZ9d.js",
+      "_VCard-CZIXdxtF.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_ModelEditorBase-DAq_yJwR.js",
+      "_fdc-DkhaOyYn.js"
+    ]
+  },
+  "src/components/model_editors/RecipeBookEditor.vue": {
+    "file": "assets/RecipeBookEditor-QzmbX8lZ.js",
+    "name": "RecipeBookEditor",
+    "src": "src/components/model_editors/RecipeBookEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VDataTableServer-CtHtAR6y.js",
+      "_ripple-DSupw0Ea.js",
+      "_VTabs-COZQDzPU.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/RecipeEditor.vue": {
+    "file": "assets/RecipeEditor-HktNjEj6.js",
+    "name": "RecipeEditor",
+    "src": "src/components/model_editors/RecipeEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_step_utils-DxH-N3-F.js",
+      "_VAvatar-K558pYPh.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_VRow-DabkD4uq.js",
+      "_VSpacer-dj5Ytwo_.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VMenu-zfZbEqtg.js",
+      "_VSwitch-DXVGEN7G.js",
+      "_VTabs-COZQDzPU.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_VFileUpload-CYythW1o.js",
+      "_PropertiesEditor-BJRW3n81.js",
+      "_DeleteConfirmDialog-DXmi7dY3.js",
+      "_ClosableHelpAlert-B9iZjqeL.js",
+      "_NumberScalerDialog-Ds6B-9WE.js",
+      "_ModelEditorBase-DAq_yJwR.js",
+      "_useFileApi-CfKL7l1L.js"
+    ],
+    "css": [
+      "assets/RecipeEditor-CcFlDNPw.css"
+    ]
+  },
+  "src/components/model_editors/ShoppingListEditor.vue": {
+    "file": "assets/ShoppingListEditor-CBI-QyZm.js",
+    "name": "ShoppingListEditor",
+    "src": "src/components/model_editors/ShoppingListEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VCard-CZIXdxtF.js",
+      "_VColorPicker-BbklebUs.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/ShoppingListEntryEditor.vue": {
+    "file": "assets/ShoppingListEntryEditor-DOKKVST7.js",
+    "name": "ShoppingListEntryEditor",
+    "src": "src/components/model_editors/ShoppingListEntryEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_ripple-DSupw0Ea.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/SpaceEditor.vue": {
+    "file": "assets/SpaceEditor-G8z2xxvx.js",
+    "name": "SpaceEditor",
+    "src": "src/components/model_editors/SpaceEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_SpaceEditor-CBb7QuEF.js"
+    ]
+  },
+  "src/components/model_editors/StorageEditor.vue": {
+    "file": "assets/StorageEditor-e-scZkIi.js",
+    "name": "StorageEditor",
+    "src": "src/components/model_editors/StorageEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VCard-CZIXdxtF.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VSelect-DSQk28J5.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/SupermarketCategoryEditor.vue": {
+    "file": "assets/SupermarketCategoryEditor-BdzXo1yK.js",
+    "name": "SupermarketCategoryEditor",
+    "src": "src/components/model_editors/SupermarketCategoryEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VCard-CZIXdxtF.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/SupermarketEditor.vue": {
+    "file": "assets/SupermarketEditor-Chxtdef6.js",
+    "name": "SupermarketEditor",
+    "src": "src/components/model_editors/SupermarketEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_SupermarketEditor-BvnxpRWY.js"
+    ]
+  },
+  "src/components/model_editors/SyncEditor.vue": {
+    "file": "assets/SyncEditor-DGu4NjvF.js",
+    "name": "SyncEditor",
+    "src": "src/components/model_editors/SyncEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/UnitConversionEditor.vue": {
+    "file": "assets/UnitConversionEditor-8E8Sgty7.js",
+    "name": "UnitConversionEditor",
+    "src": "src/components/model_editors/UnitConversionEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VCard-CZIXdxtF.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VRow-DabkD4uq.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/UnitEditor.vue": {
+    "file": "assets/UnitEditor-Bh48WSu-.js",
+    "name": "UnitEditor",
+    "src": "src/components/model_editors/UnitEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VCard-CZIXdxtF.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VSelect-DSQk28J5.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/model_editors/UserFileEditor.vue": {
+    "file": "assets/UserFileEditor-Bu0eW4BV.js",
+    "name": "UserFileEditor",
+    "src": "src/components/model_editors/UserFileEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VAvatar-K558pYPh.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VRow-DabkD4uq.js",
+      "_VFileUpload-CYythW1o.js",
+      "_ModelEditorBase-DAq_yJwR.js",
+      "_useFileApi-CfKL7l1L.js"
+    ]
+  },
+  "src/components/model_editors/UserSpaceEditor.vue": {
+    "file": "assets/UserSpaceEditor-Ct7RLrFS.js",
+    "name": "UserSpaceEditor",
+    "src": "src/components/model_editors/UserSpaceEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VCard-CZIXdxtF.js",
+      "_VSpacer-dj5Ytwo_.js",
+      "_VSelect-DSQk28J5.js",
+      "_ModelEditorBase-DAq_yJwR.js"
+    ]
+  },
+  "src/components/settings/AccountSettings.vue": {
+    "file": "assets/AccountSettings-b2Lnc-Mp.js",
+    "name": "AccountSettings",
+    "src": "src/components/settings/AccountSettings.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VAvatar-K558pYPh.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VRow-DabkD4uq.js",
+      "_logo_color-RBxhQEuF.js"
+    ]
+  },
+  "src/components/settings/ApiSettings.vue": {
+    "file": "assets/ApiSettings-C9f6nqqp.js",
+    "name": "ApiSettings",
+    "src": "src/components/settings/ApiSettings.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VChip-C1j0VadW.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VRow-DabkD4uq.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_DatabaseLinkCol-DFdSK7-j.js"
+    ]
+  },
+  "src/components/settings/CosmeticSettings.vue": {
+    "file": "assets/CosmeticSettings-CudS6Hez.js",
+    "name": "CosmeticSettings",
+    "src": "src/components/settings/CosmeticSettings.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VColorPicker-BbklebUs.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VSelect-DSQk28J5.js"
+    ],
+    "css": [
+      "assets/CosmeticSettings-DTudQs61.css"
+    ]
+  },
+  "src/components/settings/ExportDataSettings.vue": {
+    "file": "assets/ExportDataSettings-BPt1QqN2.js",
+    "name": "ExportDataSettings",
+    "src": "src/components/settings/ExportDataSettings.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VSelect-DSQk28J5.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_integration_utils-DdktfY6E.js"
+    ]
+  },
+  "src/components/settings/MealPlanSettings.vue": {
+    "file": "assets/MealPlanSettings-CxFSSAf5.js",
+    "name": "MealPlanSettings",
+    "src": "src/components/settings/MealPlanSettings.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_ClosableHelpAlert-B9iZjqeL.js"
+    ]
+  },
+  "src/components/settings/OpenDataImportSettings.vue": {
+    "file": "assets/OpenDataImportSettings-BxvUbWl9.js",
+    "name": "OpenDataImportSettings",
+    "src": "src/components/settings/OpenDataImportSettings.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_OpenDataImportSettings-BAWyJHAk.js"
+    ]
+  },
+  "src/components/settings/SearchSettings.vue": {
+    "file": "assets/SearchSettings-DM2zC-GC.js",
+    "name": "SearchSettings",
+    "src": "src/components/settings/SearchSettings.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VSelect-DSQk28J5.js"
+    ]
+  },
+  "src/components/settings/ShoppingSettings.vue": {
+    "file": "assets/ShoppingSettings-BgQDqv8e.js",
+    "name": "ShoppingSettings",
+    "src": "src/components/settings/ShoppingSettings.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_ClosableHelpAlert-B9iZjqeL.js"
+    ]
+  },
+  "src/components/settings/SpaceSettings.vue": {
+    "file": "assets/SpaceSettings-TNnfMl_M.js",
+    "name": "SpaceSettings",
+    "src": "src/components/settings/SpaceSettings.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_SpaceEditor-CBb7QuEF.js"
+    ]
+  },
+  "src/locales/ar.json": {
+    "file": "assets/ar-CtDfZBdW.js",
+    "name": "ar",
+    "src": "src/locales/ar.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/bg.json": {
+    "file": "assets/bg-BzT9qaJi.js",
+    "name": "bg",
+    "src": "src/locales/bg.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/ca.json": {
+    "file": "assets/ca-fSKxElHZ.js",
+    "name": "ca",
+    "src": "src/locales/ca.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/cs.json": {
+    "file": "assets/cs-D4uEvXE9.js",
+    "name": "cs",
+    "src": "src/locales/cs.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/da.json": {
+    "file": "assets/da-DaWLJ90B.js",
+    "name": "da",
+    "src": "src/locales/da.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/de.json": {
+    "file": "assets/de-Qa9UlJJu.js",
+    "name": "de",
+    "src": "src/locales/de.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/el.json": {
+    "file": "assets/el-BF7Hzw7H.js",
+    "name": "el",
+    "src": "src/locales/el.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/es.json": {
+    "file": "assets/es-C4V1XTB5.js",
+    "name": "es",
+    "src": "src/locales/es.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/fi.json": {
+    "file": "assets/fi-CkztvjcM.js",
+    "name": "fi",
+    "src": "src/locales/fi.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/fr.json": {
+    "file": "assets/fr-DPsirTBx.js",
+    "name": "fr",
+    "src": "src/locales/fr.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/he.json": {
+    "file": "assets/he-CS0_OjVm.js",
+    "name": "he",
+    "src": "src/locales/he.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/hr.json": {
+    "file": "assets/hr-CpghMD_0.js",
+    "name": "hr",
+    "src": "src/locales/hr.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/hu.json": {
+    "file": "assets/hu-QRv7iL_5.js",
+    "name": "hu",
+    "src": "src/locales/hu.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/hy.json": {
+    "file": "assets/hy-CGvsJ1Iu.js",
+    "name": "hy",
+    "src": "src/locales/hy.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/id.json": {
+    "file": "assets/id-Cmlj2fhL.js",
+    "name": "id",
+    "src": "src/locales/id.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/is.json": {
+    "file": "assets/is-BZNSHuET.js",
+    "name": "is",
+    "src": "src/locales/is.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/it.json": {
+    "file": "assets/it-uqq76zr1.js",
+    "name": "it",
+    "src": "src/locales/it.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/ja.json": {
+    "file": "assets/ja-Dk1wnjRt.js",
+    "name": "ja",
+    "src": "src/locales/ja.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/ko.json": {
+    "file": "assets/ko-CFj42Nlg.js",
+    "name": "ko",
+    "src": "src/locales/ko.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/lt.json": {
+    "file": "assets/lt-p4wXCdmq.js",
+    "name": "lt",
+    "src": "src/locales/lt.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/lv.json": {
+    "file": "assets/lv-CCbWFDsf.js",
+    "name": "lv",
+    "src": "src/locales/lv.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/nb_NO.json": {
+    "file": "assets/nb_NO-qsmmA1Cg.js",
+    "name": "nb_NO",
+    "src": "src/locales/nb_NO.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/nl.json": {
+    "file": "assets/nl-DwMba7MW.js",
+    "name": "nl",
+    "src": "src/locales/nl.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/nn.json": {
+    "file": "assets/nn-mYb6jDfL.js",
+    "name": "nn",
+    "src": "src/locales/nn.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/pl.json": {
+    "file": "assets/pl-CSXCcdoj.js",
+    "name": "pl",
+    "src": "src/locales/pl.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/pt.json": {
+    "file": "assets/pt-CQEJYoD0.js",
+    "name": "pt",
+    "src": "src/locales/pt.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/pt_BR.json": {
+    "file": "assets/pt_BR-Bn9es4jC.js",
+    "name": "pt_BR",
+    "src": "src/locales/pt_BR.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/ro.json": {
+    "file": "assets/ro-B1S1Z0P8.js",
+    "name": "ro",
+    "src": "src/locales/ro.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/ru.json": {
+    "file": "assets/ru-BNa3nOCm.js",
+    "name": "ru",
+    "src": "src/locales/ru.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/sl.json": {
+    "file": "assets/sl-BlSsILoC.js",
+    "name": "sl",
+    "src": "src/locales/sl.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/sv.json": {
+    "file": "assets/sv-DaOyCwI4.js",
+    "name": "sv",
+    "src": "src/locales/sv.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/tr.json": {
+    "file": "assets/tr-YAM92406.js",
+    "name": "tr",
+    "src": "src/locales/tr.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/uk.json": {
+    "file": "assets/uk-Hjq-czbd.js",
+    "name": "uk",
+    "src": "src/locales/uk.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/zh_Hans.json": {
+    "file": "assets/zh_Hans-CMR1qKzE.js",
+    "name": "zh_Hans",
+    "src": "src/locales/zh_Hans.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/zh_Hant.json": {
+    "file": "assets/zh_Hant-DuX9kybX.js",
+    "name": "zh_Hant",
+    "src": "src/locales/zh_Hant.json",
+    "isDynamicEntry": true
+  },
+  "src/pages/404Page.vue": {
+    "file": "assets/404Page-dHM1lbhK.js",
+    "name": "404Page",
+    "src": "src/pages/404Page.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js"
+    ]
+  },
+  "src/pages/BookViewPage.vue": {
+    "file": "assets/BookViewPage-Cgm8zCcE.js",
+    "name": "BookViewPage",
+    "src": "src/pages/BookViewPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_framework-B7oC7Ia-.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_number_utils-DwIvdNx1.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VPagination-p2GKOnup.js",
+      "_IngredientsTable-5y9k9Hb4.js",
+      "_KeywordsBar-CMVPy28D.js",
+      "_model_utils-C6m890wx.js"
+    ]
+  },
+  "src/pages/BooksPage.vue": {
+    "file": "assets/BooksPage-DVS90OdT.js",
+    "name": "BooksPage",
+    "src": "src/pages/BooksPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js"
+    ]
+  },
+  "src/pages/DatabasePage.vue": {
+    "file": "assets/DatabasePage-Y1vL479B.js",
+    "name": "DatabasePage",
+    "src": "src/pages/DatabasePage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VCard-CZIXdxtF.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_DatabaseLinkCol-DFdSK7-j.js",
+      "_DatabaseModelCol-GHBV-utj.js"
+    ]
+  },
+  "src/pages/HelpPage.vue": {
+    "file": "assets/HelpPage-C2RHOQAK.js",
+    "name": "HelpPage",
+    "src": "src/pages/HelpPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js"
+    ]
+  },
+  "src/pages/HouseholdPage.vue": {
+    "file": "assets/HouseholdPage-CuXTBuas.js",
+    "name": "HouseholdPage",
+    "src": "src/pages/HouseholdPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_framework-B7oC7Ia-.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_DatabaseModelCol-GHBV-utj.js",
+      "_Models-Cztajy1l.js"
+    ]
+  },
+  "src/pages/IngredientEditorPage.vue": {
+    "file": "assets/IngredientEditorPage-yj85PAoh.js",
+    "name": "IngredientEditorPage",
+    "src": "src/pages/IngredientEditorPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VDataTableServer-CtHtAR6y.js",
+      "_ripple-DSupw0Ea.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VMenu-zfZbEqtg.js",
+      "_DeleteConfirmDialog-DXmi7dY3.js",
+      "_ModelMergeDialog-CO2-4mUV.js",
+      "_ClosableHelpAlert-B9iZjqeL.js"
+    ]
+  },
+  "src/pages/InventoryBookingPage.vue": {
+    "file": "assets/InventoryBookingPage-CO53oym3.js",
+    "name": "InventoryBookingPage",
+    "src": "src/pages/InventoryBookingPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VDataTableServer-CtHtAR6y.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_InventoryEntryLogDialog-Bc8i8VRM.js",
+      "_ClosableHelpAlert-B9iZjqeL.js",
+      "_Models-Cztajy1l.js",
+      "_model_utils-C6m890wx.js"
+    ]
+  },
+  "src/pages/ModelDeletePage.vue": {
+    "file": "assets/ModelDeletePage-CTXLKohr.js",
+    "name": "ModelDeletePage",
+    "src": "src/pages/ModelDeletePage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_framework-B7oC7Ia-.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VChip-C1j0VadW.js",
+      "_VDataTableServer-CtHtAR6y.js",
+      "_ripple-DSupw0Ea.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VTabs-COZQDzPU.js",
+      "_DeleteConfirmDialog-DXmi7dY3.js",
+      "_ModelMergeDialog-CO2-4mUV.js",
+      "_Models-Cztajy1l.js"
+    ]
+  },
+  "src/pages/ModelEditPage.vue": {
+    "file": "assets/ModelEditPage-D6R6vu9G.js",
+    "name": "ModelEditPage",
+    "src": "src/pages/ModelEditPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_framework-B7oC7Ia-.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_ripple-DSupw0Ea.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VMenu-zfZbEqtg.js",
+      "_position-D2VYa8e6.js",
+      "_layout-lYLPvZK-.js",
+      "_intersect-JpzjG-xp.js",
+      "_DeleteConfirmDialog-DXmi7dY3.js",
+      "_Models-Cztajy1l.js"
+    ],
+    "css": [
+      "assets/ModelEditPage-B5oBrkJw.css"
+    ]
+  },
+  "src/pages/ModelListPage.vue": {
+    "file": "assets/ModelListPage-DSkyOW1p.js",
+    "name": "ModelListPage",
+    "src": "src/pages/ModelListPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_framework-B7oC7Ia-.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VDataTableServer-CtHtAR6y.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VSpacer-dj5Ytwo_.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VMenu-zfZbEqtg.js",
+      "_position-D2VYa8e6.js",
+      "_VSelect-DSQk28J5.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_BatchDeleteDialog-B2MF0yVk.js",
+      "_ModelMergeDialog-CO2-4mUV.js",
+      "_Models-Cztajy1l.js"
+    ]
+  },
+  "src/pages/PantryPage.vue": {
+    "file": "assets/PantryPage-lHpcY80f.js",
+    "name": "PantryPage",
+    "src": "src/pages/PantryPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VChip-C1j0VadW.js",
+      "_VDataTableServer-CtHtAR6y.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_InventoryEntryLogDialog-Bc8i8VRM.js",
+      "_model_utils-C6m890wx.js"
+    ]
+  },
+  "src/pages/PropertyEditorPage.vue": {
+    "file": "assets/PropertyEditorPage-3tpYS7bg.js",
+    "name": "PropertyEditorPage",
+    "src": "src/pages/PropertyEditorPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VSpacer-dj5Ytwo_.js",
+      "_VTable-D_AcMnTP.js",
+      "_FdcSearchDialog-Cqb9D8rA.js",
+      "_fdc-DkhaOyYn.js"
+    ]
+  },
+  "src/pages/RecipeImportPage.vue": {
+    "file": "assets/RecipeImportPage-QICxiJRx.js",
+    "name": "RecipeImportPage",
+    "src": "src/pages/RecipeImportPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_step_utils-DxH-N3-F.js",
+      "_framework-B7oC7Ia-.js",
+      "_VAvatar-K558pYPh.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VCheckboxBtn-gPDqip0S.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VSpacer-dj5Ytwo_.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VMenu-zfZbEqtg.js",
+      "_position-D2VYa8e6.js",
+      "_VStepper-CGGd-mmT.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_VFileUpload-CYythW1o.js",
+      "_useFileApi-CfKL7l1L.js",
+      "_integration_utils-DdktfY6E.js"
+    ]
+  },
+  "src/pages/RecipeViewPage.vue": {
+    "file": "assets/RecipeViewPage-B0IvPMWv.js",
+    "name": "RecipeViewPage",
+    "src": "src/pages/RecipeViewPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_VAvatar-K558pYPh.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VChip-C1j0VadW.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_number_utils-DwIvdNx1.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VSpacer-dj5Ytwo_.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VListItemAction-DxWVyokB.js",
+      "_position-D2VYa8e6.js",
+      "_VRating-CWk1fWje.js",
+      "_AddToShoppingDialog-2zFULpEg.js",
+      "_VTable-D_AcMnTP.js",
+      "_VTabs-COZQDzPU.js",
+      "_VTextarea-DHxGnjaI.js",
+      "_VTooltip-C_wAohQh.js",
+      "_logo_color-RBxhQEuF.js",
+      "_PrivateRecipeBadge-DZLoBk_n.js",
+      "_IngredientsTable-5y9k9Hb4.js",
+      "_KeywordsBar-CMVPy28D.js",
+      "_useFileApi-CfKL7l1L.js",
+      "_model_utils-C6m890wx.js"
+    ],
+    "css": [
+      "assets/RecipeViewPage-BY3ErEFj.css"
+    ]
+  },
+  "src/pages/SearchPage.vue": {
+    "file": "assets/SearchPage-VKqtOtJ2.js",
+    "name": "SearchPage",
+    "src": "src/pages/SearchPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_framework-B7oC7Ia-.js",
+      "_VAutocomplete-Yb0KXZ9d.js",
+      "_VAvatar-K558pYPh.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VCheckbox-DonvWGMR.js",
+      "_VTextField-awlf6Q3j.js",
+      "_VDataTableServer-CtHtAR6y.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDialog-B34jJypU.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_number_utils-DwIvdNx1.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VMenu-zfZbEqtg.js",
+      "_VPagination-p2GKOnup.js",
+      "_VRating-CWk1fWje.js",
+      "_VSelect-DSQk28J5.js",
+      "_BatchDeleteDialog-B2MF0yVk.js",
+      "_PrivateRecipeBadge-DZLoBk_n.js",
+      "_KeywordsBar-CMVPy28D.js",
+      "_RecipeCard-wOUr25ii.js",
+      "_Models-Cztajy1l.js"
+    ]
+  },
+  "src/pages/SettingsPage.vue": {
+    "file": "assets/SettingsPage-CP1_dE8n.js",
+    "name": "SettingsPage",
+    "src": "src/pages/SettingsPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js"
+    ]
+  },
+  "src/pages/ShoppingListPage.vue": {
+    "file": "assets/ShoppingListPage-D8clnQW4.js",
+    "name": "ShoppingListPage",
+    "src": "src/pages/ShoppingListPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_dimensions-Ro3jLs4r.js",
+      "_ShoppingListView-CV-RxTmE.js"
+    ]
+  },
+  "src/pages/SpaceSetupPage.vue": {
+    "file": "assets/SpaceSetupPage-ycBfDfa7.js",
+    "name": "SpaceSetupPage",
+    "src": "src/pages/SpaceSetupPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts"
+    ]
+  },
+  "src/pages/StartPage.vue": {
+    "file": "assets/StartPage-Q-mJKtHR.js",
+    "name": "StartPage",
+    "src": "src/pages/StartPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_framework-B7oC7Ia-.js",
+      "_VAvatar-K558pYPh.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VList-MZVaGbBE.js",
+      "_VListItem-D4YEtkS7.js",
+      "_VMenu-zfZbEqtg.js",
+      "_position-D2VYa8e6.js",
+      "_AddToShoppingDialog-2zFULpEg.js",
+      "_RecipeCard-wOUr25ii.js"
+    ]
+  },
+  "src/pages/TestPage.vue": {
+    "file": "assets/TestPage-BmYzWzn4.js",
+    "name": "TestPage",
+    "src": "src/pages/TestPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_VContainer-Dw_pL6_n.js"
+    ]
+  },
+  "src/pages/WelcomePage.vue": {
+    "file": "assets/WelcomePage-DMleFyZb.js",
+    "name": "WelcomePage",
+    "src": "src/pages/WelcomePage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/apps/tandoor/main.ts",
+      "_dimensions-Ro3jLs4r.js",
+      "_MessageStore-DqQIDxBL.js",
+      "_UserPreferenceStore-CiAwGW4H.js",
+      "_framework-B7oC7Ia-.js",
+      "_VBtn-CCXnhmcy.js",
+      "_VCard-CZIXdxtF.js",
+      "_VTextField-awlf6Q3j.js",
+      "_ripple-DSupw0Ea.js",
+      "_VDivider-CR5_BJ1y.js",
+      "_VRow-DabkD4uq.js",
+      "_VContainer-Dw_pL6_n.js",
+      "_VSpacer-dj5Ytwo_.js",
+      "_VSelect-DSQk28J5.js",
+      "_VStepper-CGGd-mmT.js",
+      "_OpenDataImportSettings-BAWyJHAk.js",
+      "_Models-Cztajy1l.js"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+import{t as e}from"./SupermarketEditor-BvnxpRWY.js";export{e as default};

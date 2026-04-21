@@ -1,0 +1,1 @@
+import{Wt as e,Zt as t,kt as n,mn as r}from"./dimensions-Ro3jLs4r.js";import{t as i}from"./ShoppingListView-CV-RxTmE.js";n();var a=t({__name:`ShoppingListPage`,setup(t){return(t,n)=>(r(),e(i))}});export{a as default};

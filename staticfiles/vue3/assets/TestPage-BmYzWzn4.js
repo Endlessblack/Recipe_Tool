@@ -1,0 +1,1 @@
+import{Wt as e,kt as t,mn as n}from"./dimensions-Ro3jLs4r.js";import{t as r}from"./VContainer-Dw_pL6_n.js";import{E as i}from"./main-DRQWzHhz.js";t();var a={};function o(t,i){return n(),e(r)}var s=i(a,[[`render`,o]]);export{s as default};
