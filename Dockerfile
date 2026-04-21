@@ -1,8 +1,9 @@
 FROM vabene1111/recipes:latest
 
-# 建立必要的資料夾並設定權限，避免啟動錯誤
 USER root
-RUN mkdir -p /opt/recipes/staticfiles /opt/recipes/mediafiles && \
-    chown -R 1000:1000 /opt/recipes/staticfiles /opt/recipes/mediafiles
+
+# 修復所有可能導致 Nginx 權限失敗的資料夾
+RUN mkdir -p /opt/recipes/staticfiles /opt/recipes/mediafiles /var/lib/nginx /var/log/nginx && \
+    chown -R 1000:1000 /opt/recipes/staticfiles /opt/recipes/mediafiles /var/lib/nginx /var/log/nginx /run
 
 USER 1000
